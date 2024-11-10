@@ -16,9 +16,7 @@ const Home = () => {
             IMPECCABLE CRAFTSMANSHIP AND FINESSE
           </h1>
           <p className={`${libreBodoni.className} text-[30px] leading-8 text-[#787054] ml-[171px]`}>
-            An example of intricate workmanship and detail &apos;
-            elegant necklaces and long and short chains form a part of our
-             desirable collection.
+            An example of intricate workmanship and detail, elegant necklaces and long and short chains form a part of our desirable collection.
           </p>
           <button className={`${libreBodoni.className} bg-[#A29875] text-[#FFFFFF] text-[30px] mt-8 rounded px-8 py-2 ml-[171px]`}>
             Explore Now
