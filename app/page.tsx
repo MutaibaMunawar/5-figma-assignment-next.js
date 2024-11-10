@@ -8,7 +8,7 @@ const libreBodoni = Libre_Bodoni({
 });
 
 const Home = () => {
-  return (
+  return ( 
     <div>
       <div className="p-12 flex items-center">
         <div className="flex-1">
